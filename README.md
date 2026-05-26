@@ -1,7 +1,7 @@
 server-stats-project
 A lightweight Bash script to analyze basic server performance stats from the terminal.
 
-project URL: https://github.com/MatiasCardoso-000/server-stats-project
+https://github.com/MatiasCardoso-000/server-stats-project
 
 What it does
 Running server-stats.sh prints a snapshot of your server's current state:
