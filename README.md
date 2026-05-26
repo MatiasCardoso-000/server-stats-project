@@ -1,7 +1,6 @@
 server-stats-project
 A lightweight Bash script to analyze basic server performance stats from the terminal.
 
-https://github.com/MatiasCardoso-000/server-stats-project
 
 What it does
 Running server-stats.sh prints a snapshot of your server's current state:
@@ -27,3 +26,8 @@ chmod +x server-stats.sh
 3. Run it:
 
 ./server-stats.sh
+
+
+## Project
+
+This script was built as part of the [Server Stats](https://roadmap.sh/projects/server-stats) project from roadmap.sh.
